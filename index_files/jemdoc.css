@@ -1,10 +1,45 @@
 /* Default css file for jemdoc. */
+@font-face {
+    font-family: 'mate';
+    font-weight: normal;
+    font-style: normal;
+    src: url("./fonts/mate/Mate-Regular.otf") format('opentype');
+}
+
+@font-face {
+    font-family: 'mate';
+    font-weight: normal;
+    font-style: italic;
+    src: url("./fonts/mate/Mate-Italic.otf") format('opentype');
+}
+
+@font-face {
+    font-family: 'gentium';
+    font-weight: normal;
+    font-style: normal;
+    src: url("./fonts/gentium/GentiumPlus-R.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'gentium';
+    font-weight: normal;
+    font-style: italic;
+    src: url("./fonts/gentium/GentiumPlus-I.ttf") format('truetype');
+}
+
+@font-face {
+    font-family: 'anke';
+    font-weight: normal;
+    font-style: normal;
+    src: url("./fonts/anke/anke.ttf") format('truetype');
+}
 
 table#tlayout {
     border: none;
     border-collapse: separate;
     background: white;
 }
+
 
 /*
 body {
@@ -14,10 +49,11 @@ body {
 	margin: 0;
 }
 */
+
 body {	
 	background-color:#FFFFFF;
-	font-family:Verdana, Arial, Helvetica, sans-serif;
-	font-size:15px;
+	font-family:'gentium', Arial, Helvetica, sans-serif;
+	font-size:18px;
 	margin-bottom:0;
 	color:#333;
 	margin-left:auto;
@@ -48,7 +84,7 @@ body {
 	padding-left: 1.0em;
 	padding-right: 1.0em;
     border: none;
-    background: white;
+    background: #f0f0f0;
     text-align: left;
     vertical-align: top;
 }
