@@ -1,19 +1,5 @@
 /* Default css file for jemdoc. */
 @font-face {
-    font-family: 'mate';
-    font-weight: normal;
-    font-style: normal;
-    src: url("./fonts/mate/Mate-Regular.otf") format('opentype');
-}
-
-@font-face {
-    font-family: 'mate';
-    font-weight: normal;
-    font-style: italic;
-    src: url("./fonts/mate/Mate-Italic.otf") format('opentype');
-}
-
-@font-face {
     font-family: 'gentium';
     font-weight: normal;
     font-style: normal;
@@ -25,13 +11,6 @@
     font-weight: normal;
     font-style: italic;
     src: url("./fonts/gentium/GentiumPlus-I.ttf") format('truetype');
-}
-
-@font-face {
-    font-family: 'anke';
-    font-weight: normal;
-    font-style: normal;
-    src: url("./fonts/anke/anke.ttf") format('truetype');
 }
 
 table#tlayout {
