@@ -52,7 +52,7 @@ body {
 
 body {	
 	background-color:#FFFFFF;
-	font-family:'gentium', Arial, Helvetica, sans-serif;
+	font-family:'gentium', 'gentium', Helvetica, sans-serif;
 	font-size:18px;
 	margin-bottom:0;
 	color:#333;
