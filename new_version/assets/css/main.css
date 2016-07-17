@@ -1895,7 +1895,7 @@
 		color: #ffffff !important;
 		cursor: pointer;
 		display: inline-block;
-		font-size: 0.6em;
+		font-size: 0.75em;
 		font-weight: bold;
 		height: calc(4.75em + 2px);
 		letter-spacing: 0.25em;
@@ -3753,7 +3753,7 @@
 			font-size: 0.8em;
 			font-weight: bold;
 			letter-spacing: 0.25em;
-			line-height: 1.5;
+			line-height: 1.75;
 			outline: 0;
 			padding: 1.35em 0;
 			position: relative;
