@@ -1,7 +1,14 @@
+Ashutosh Pattnaik Homepage
+
+
+This is the website of Ashutosh Pattnaik. 
+Please feel free to use this template if you wish. The template was modified but is based on the Hyperspace template available in HTML5 UP.
+
+
+#########################################################################################
 Hyperspace by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
 
 So I've had the wireframe for this particular design kicking around for some time, but with all
 the other interesting (and in some cases, semi-secret) projects I've been working on it took me
@@ -33,3 +40,5 @@ Credits:
 		Misc. Sass functions (@HugoGiraudel)
 		Respond.js (j.mp/respondjs)
 		Skel (skel.io)
+
+############################################################################################		
