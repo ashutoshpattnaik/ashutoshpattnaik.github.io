@@ -69,7 +69,7 @@
 
 
 
-<button onclick="topFunction()" id="myBtn" title="Go to top">Top</button>
+<button onclick="topFunction()" id="myBtn" title="Go to top">TOP</button>
 <script>
 // When the user scrolls down 20px from the top of the document, show the button
 window.onscroll = function() {scrollFunction()};
@@ -137,28 +137,11 @@ function myFunction() {
         <a href="https://ashutoshpattnaik.github.io/"> Ashutosh Pattnaik</a>
       </h1>
     </div>
-    <script>
-      if (parseInt(Y.one('body').getComputedStyle('width'),10) <= 40) {
-        Y.use('squarespace-ui-base', function(Y) {
-          Y.one("#upper-logo .logo").plug(Y.Squarespace.TextShrink, {
-            parentEl: Y.one('#upper-logo')
-          });
-        });
-      }
-    </script>
-
 
 
     <div id="lower-logo">
       <h1 class="logo" data-content-field="site-title" data-shrink-original-size="26" style="letter-spacing: 0.115385em;"><a href="https://ashutoshpattnaik.github.io/"> Ashutosh Pattnaik</a></h1>
     </div>
-    <script>
-      Y.use('squarespace-ui-base', function(Y) {
-        Y.one("#lower-logo .logo").plug(Y.Squarespace.TextShrink, {
-          parentEl: Y.one('#lower-logo')
-        });
-      });
-    </script>
 
     
     <div id="topNav">
